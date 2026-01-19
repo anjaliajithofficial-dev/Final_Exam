@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-  printf("Cloning a remote repo into the local machine. Also making some changes.");
+  printf("Cloning a remote repo into the local machine.");
 }
